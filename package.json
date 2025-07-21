@@ -4,7 +4,7 @@
 	"private": true,
 	"dependencies": {
 		"react": "^16.11.0",
-		"react-scripts": "3.2.0"
+		"react-scripts": "5.0.1"
 	},
 	"scripts": {
 		"start": "react-scripts start",
@@ -31,7 +31,7 @@
 		"@types/jest": "^24.0.22",
 		"enzyme": "^3.10.0",
 		"enzyme-adapter-react-16": "^1.15.1",
-		"jest-cli": "^20.0.4",
+		"jest-cli": "^30.0.4",
 		"react-dom": "^16.11.0",
 		"react-test-render": "^1.1.2"
 	},
